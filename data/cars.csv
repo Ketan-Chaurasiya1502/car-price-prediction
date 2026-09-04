@@ -1,0 +1,41 @@
+name,model,type,year,mileage,engine_size,fuel_type,transmission,condition,price
+Toyota Camry,2022,Sedan,2022,15000,2.5,Petrol,Automatic,Good,25000
+Honda Civic,2021,Sedan,2021,22000,1.8,Petrol,Manual,Good,22000
+Ford F-150,2023,Truck,2023,8000,3.5,Petrol,Automatic,Excellent,35000
+Chevrolet Cruze,2020,Sedan,2020,35000,1.6,Diesel,Automatic,Average,18000
+BMW 3 Series,2022,Sedan,2022,12000,2.0,Petrol,Automatic,Excellent,45000
+Mazda CX-5,2021,SUV,2021,28000,2.5,Petrol,Automatic,Good,28000
+Volkswagen Golf,2020,Hatchback,2020,32000,1.4,Petrol,Manual,Average,17000
+Nissan Altima,2022,Sedan,2022,18000,2.5,Petrol,Automatic,Good,24000
+Hyundai Elantra,2019,Sedan,2019,45000,1.6,Petrol,Automatic,Average,16000
+Kia Sportage,2021,SUV,2021,24000,2.0,Petrol,Automatic,Good,26000
+Tesla Model 3,2023,Sedan,2023,5000,0,Electric,Automatic,Excellent,52000
+Audi A4,2022,Sedan,2022,14000,2.0,Petrol,Automatic,Excellent,48000
+Mercedes-Benz C-Class,2021,Sedan,2021,20000,2.0,Petrol,Automatic,Good,50000
+Subaru Outback,2020,SUV,2020,38000,2.5,Petrol,Automatic,Average,22000
+Jeep Wrangler,2022,SUV,2022,16000,3.6,Petrol,Automatic,Good,38000
+Toyota Corolla,2021,Sedan,2021,26000,1.8,Petrol,Automatic,Good,20000
+Honda Accord,2020,Sedan,2020,33000,2.0,Petrol,Automatic,Average,21000
+Ford Mustang,2022,Coupe,2022,11000,3.7,Petrol,Automatic,Excellent,42000
+Chevrolet Silverado,2021,Truck,2021,29000,5.3,Petrol,Automatic,Good,32000
+Dodge Charger,2020,Sedan,2020,37000,3.6,Petrol,Automatic,Average,28000
+Nissan Rogue,2022,SUV,2022,17000,2.5,Petrol,Automatic,Good,27000
+Hyundai Santa Fe,2021,SUV,2021,25000,2.4,Petrol,Automatic,Good,29000
+Kia Optima,2020,Sedan,2020,34000,2.0,Petrol,Automatic,Average,19000
+Volkswagen Passat,2021,Sedan,2021,23000,2.0,Petrol,Automatic,Good,23000
+Subaru Legacy,2022,Sedan,2022,13000,2.5,Petrol,Automatic,Excellent,31000
+Toyota Highlander,2021,SUV,2021,27000,3.5,Petrol,Automatic,Good,36000
+Honda CR-V,2020,SUV,2020,31000,1.5,Petrol,Automatic,Average,24000
+Ford Explorer,2022,SUV,2022,19000,3.0,Petrol,Automatic,Good,33000
+Chevrolet Equinox,2021,SUV,2021,26000,2.0,Petrol,Automatic,Good,25000
+Nissan Qashqai,2020,SUV,2020,36000,1.6,Diesel,Automatic,Average,21000
+BMW X5,2022,SUV,2022,11000,3.0,Petrol,Automatic,Excellent,65000
+Audi Q7,2021,SUV,2021,21000,3.0,Petrol,Automatic,Good,62000
+Mercedes-Benz GLC,2022,SUV,2022,10000,2.0,Petrol,Automatic,Excellent,58000
+Tesla Model S,2023,Sedan,2023,3000,0,Electric,Automatic,Excellent,75000
+Porsche 911,2021,Coupe,2021,18000,3.4,Petrol,Automatic,Excellent,95000
+Ferrari F8,2022,Coupe,2022,2000,3.9,Petrol,Automatic,Excellent,280000
+Lamborghini Urus,2021,SUV,2021,8000,4.0,Petrol,Automatic,Excellent,220000
+Rolls-Royce Phantom,2020,Sedan,2020,15000,6.7,Petrol,Automatic,Excellent,350000
+Bentley Flying Spur,2022,Sedan,2022,9000,6.0,Petrol,Automatic,Excellent,200000
+Jaguar XE,2021,Sedan,2021,22000,2.0,Petrol,Automatic,Good,44000
